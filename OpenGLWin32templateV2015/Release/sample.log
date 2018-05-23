@@ -1,0 +1,40 @@
+﻿  template_with_console.cpp
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(176): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(177): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(179): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(330): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(334): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(340): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(343): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(373): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(577): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(587): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(635): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(636): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(672): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(682): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(683): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(684): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(685): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(692): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(693): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(694): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(695): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(729): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(730): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(734): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(745): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(746): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(750): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(758): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\noo\dropbox\openglwin32templatev2015\template_with_console.cpp(766): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating code
+  39 of 39 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sample.vcxproj -> C:\Users\Noo\Dropbox\OpenGLWin32templateV2015\Release\sample.exe

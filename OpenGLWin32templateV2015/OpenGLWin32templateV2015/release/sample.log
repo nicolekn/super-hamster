@@ -1,0 +1,27 @@
+﻿  template_with_console.cpp
+template_with_console.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+template_with_console.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+template_with_console.cpp(152): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+template_with_console.cpp(161): warning C4305: '=': truncation from 'double' to 'float'
+template_with_console.cpp(164): warning C4305: '=': truncation from 'double' to 'float'
+template_with_console.cpp(177): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(178): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(179): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(180): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(187): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(188): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(189): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(190): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+template_with_console.cpp(219): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+template_with_console.cpp(220): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+template_with_console.cpp(236): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+template_with_console.cpp(237): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+template_with_console.cpp(239): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+template_with_console.cpp(250): warning C4305: '+=': truncation from 'double' to 'float'
+template_with_console.cpp(258): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating code
+  0 of 24 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sample.vcxproj -> \\ueahome4\stusci1\ksg16pru\data\Downloads\OpenGLWin32templateV2015\Release\sample.exe
